@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemy-video-app/static/css/main.99fecfaa.chunk.css",
+    "main.js": "/udemy-video-app/static/js/main.7e0bfdbe.chunk.js",
+    "main.js.map": "/udemy-video-app/static/js/main.7e0bfdbe.chunk.js.map",
+    "runtime~main.js": "/udemy-video-app/static/js/runtime~main.290e42d2.js",
+    "runtime~main.js.map": "/udemy-video-app/static/js/runtime~main.290e42d2.js.map",
+    "static/js/2.fdb6c12e.chunk.js": "/udemy-video-app/static/js/2.fdb6c12e.chunk.js",
+    "static/js/2.fdb6c12e.chunk.js.map": "/udemy-video-app/static/js/2.fdb6c12e.chunk.js.map",
+    "index.html": "/udemy-video-app/index.html",
+    "precache-manifest.b3f2c9cdd95ccc5393970d72d34943d0.js": "/udemy-video-app/precache-manifest.b3f2c9cdd95ccc5393970d72d34943d0.js",
+    "service-worker.js": "/udemy-video-app/service-worker.js",
+    "static/css/main.99fecfaa.chunk.css.map": "/udemy-video-app/static/css/main.99fecfaa.chunk.css.map"
+  }
+}
